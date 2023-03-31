@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "bag",
+    "description": "this is a description about bag",
+    "price": 800000,
+    "quantity": 8
+  },
+  {
+    "id": 2,
+    "name": "bag 2",
+    "description": "this is a description about bag",
+    "price": 800000,
+    "quantity": 8
+  },
+  {
+    "id": 3,
+    "name": "bag 3",
+    "description": "this is a description about bag",
+    "price": 800000,
+    "quantity": 8
+  },
+  {
+    "id": 4,
+    "name": "bag 4",
+    "description": "this is a description about bag",
+    "price": 800000,
+    "quantity": 8
+  },
+  {
+    "id": 5,
+    "name": "bag 5",
+    "description": "this is a description about bag",
+    "price": 800000,
+    "quantity": 8
+  },
+  {
+    "id": 6,
+    "name": "bag 6",
+    "description": "this is a description about bag",
+    "price": 800000,
+    "quantity": 8
+  },
+  {
+    "id": 7,
+    "name": "bag 7",
+    "description": "this is a description about bag",
+    "price": 800000,
+    "quantity": 8
+  },
+  {
+    "id": 8,
+    "name": "bag 8",
+    "description": "this is a description about bag",
+    "price": 800000,
+    "quantity": 8
+  },
+  {
+    "id": 9,
+    "name": "bag 9",
+    "description": "this is a description about bag",
+    "price": 800000,
+    "quantity": 8
+  }
+]
